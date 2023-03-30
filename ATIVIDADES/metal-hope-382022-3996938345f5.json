@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "metal-hope-382022",
+  "private_key_id": "3996938345f50d80c754c0c5cc9e040bed4c3ce6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCVlYQxsGI5kVJ5\nv2NLX4E6bRs/ZiHDgFVoDUv4WVW07psKfDz/tJx9qOcyTj0mygiPPePLdNItmqCz\ny8LPMLPkZM2q4pSVSv72/NwVaQ3AjndHE8W8dqi7oL26zqkKrdMh22saEvbcOveK\nCQs1Ak9R/fm7+eA+QMpYSrL1/92uxZVHSQNL0mgvJ+4b6YokjgazKpDAaIf4NYaS\no3SGByeY9EUuiY/uc1tMTS9D3A1VwcVu0PShYPJse2WXDLwpSsKfqEL3COyERrxI\n9DA2fuR1lKhivS6VCP/QqJv/Pinnyc4kjLgrjBE1PKV0BiI9c427d+bfdzZqcKSB\nUS2SDfItAgMBAAECggEAAdDmu2izpJT6VJtcrZiILw90ixSmsi/GBnhrQYv26BAU\n7OMDWMWWhPyh0Lp8I3l38m8/3paf15xlOSsvEm9ge7q3XkzLNrQwole0pbdL137g\nFvDE3L8iPzCAi5RNn2E3xNU1kjbROiBZvk2fGtwykaFpxwNNwOVUX49WmvlDT0dQ\nW+VkBbtaThPexSJX9X7+qsuP5lrqVDmh9eKJUmjEq3manvVvL5/FHLnmTPVaaFD4\nGLoud9ddkMNmmQu/PbDrXFcMp4vcnHW6RpIzTxdX+iwud9854mtnj5Nn5t5d9OZd\n0XUXmYtpOVw9uU67ZmKaJDTQ8BiICpx8P2dVhT5JcQKBgQDHTHVgb4e5gAwSJaHa\nmLX1g+1xeZcctgVNEXhV0kyWOyJ+d5YgmPmXcI24iRI9y/SjV9Lkhy/bUDd80ZfP\nfso5LtWklANc/ElNHfnM/5/YBHeuKXWwr0NCDvA0sQs0wdK+bs+aKLp7dQZZmfMJ\nfR3Rt2h1gWRTwR8uUZ04RCzGnQKBgQDAJDANg2JeCze1F+Hi6roLK8lf2KFKVJ7x\neaw0IclPiehVCVVL9G8em+zSZLw2L6uzAce0bbUFgF9Vt36UyLHopLOak0+kHcB7\nw8jcUtSaFjtzN25XSfwfiu/lfNzdiuP1sFR7YxELR3BDumV+jB1CQ1yyX4Pzx+RS\nRDyIes880QKBgQDESoYA6VhgV8GLzgzP5ECzA7FFZmBzIsOt2FsRDAPqo2uh696t\nVH3frjenXTneK5dTmhhYhN2ZwDQmd7hx4YsDLyG06yM03jbEAZYbVln0xNGrc6I6\n1yQDV/s1qnpDB/OtJC7MwviIyAXtEjfRTK2l9GKp+Tr7UuaHFFMpK9x98QKBgGS+\n1L9RI3PCF/yJQDSV9OTEmbr6wF9UDV75+DQBfyeIXNyxnxrLWLRI95y9mv4icrnS\ndh8B4we2bsZoByQGM1qTeWTUVs7rlrCOULRNbhI5FATujJmSPnNfizfeB4TWPX7m\nbPWhVR9/3rp0cqEu4GyNG36fnHVnWy1TgBXjpuPxAoGBAJgoJ6nhMRYbJDk5yO/R\nGxebDIPN61XLgu/+dQAosOW/X5ybOcZzANFVJh9UVbmlNrDvOOFMBFJ+bzufQzmR\nBJQMrCye7LnD7PfNfuTBtONexI/rQpfxWvCuOxqpjyEAD4TaH2vXSPpN7jfH8/pT\npZJNACRneWjKxf2xRUDjcU9I\n-----END PRIVATE KEY-----\n",
+  "client_email": "briancamargos@metal-hope-382022.iam.gserviceaccount.com",
+  "client_id": "117488161790673290279",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/briancamargos%40metal-hope-382022.iam.gserviceaccount.com"
+}
